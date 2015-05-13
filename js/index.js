@@ -1,7 +1,7 @@
 $(document).ready(function() {
 	$("#scrollStay").scrollToFixed();
 
-	$("#downlaodBtn").click(function() {
+	$(".downloadBtn").click(function() {
 		chrome.webstore.install();
 	});
 });
