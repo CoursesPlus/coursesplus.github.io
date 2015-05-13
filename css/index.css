@@ -1,0 +1,77 @@
+body {
+	font-family: Oxygen, sans-serif;
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden;
+	overflow-y: scroll;
+}
+#title {
+	background: #eee;
+	font-size: 54px;
+	text-align: center;
+	padding: 10px;
+}
+#desc {
+	background: #ddd;
+	font-size: 18px;
+	text-align: center;
+	padding: 12px;
+}
+.download {
+	background: #eee;
+	text-align: center;
+	padding: 10px;
+}
+.downloadBtn {
+	background: #00dddd;
+	border: none;
+	border-radius: 5px;
+	box-shadow: 2px 2px 0 0 #00aaaa;
+	cursor: pointer;
+	font-family: Lato, sans-serif;
+	font-size: 18px;
+	padding-left: 40px;
+	padding-right: 40px;
+	position: relative;
+}
+.downloadBtn:hover {
+	color: white;
+}
+.downloadBtn:active {
+	box-shadow: none;
+	top: 2px;
+	left: 2px;
+}
+.feature {
+	background-size: cover;
+	color: white;
+	padding: 30px;
+	
+	width: auto;
+	height: 400px;
+}
+.feature-lead {
+	font-size: 48px;
+	margin-bottom: 10px;
+}
+.feature-desc {
+	font-size: 24px;
+}
+
+footer {
+	background: #ddd;
+	font-size: 18px;
+	text-align: center;
+	padding: 12px;
+}
+
+.f1 {
+	background-image: url(../img/f1.jpeg);
+}
+.f2 {
+	background-image: url(../img/f2.jpeg);
+	text-align: right;
+}
+.f3 {
+	background-image: url(../img/f3.jpeg);
+}
