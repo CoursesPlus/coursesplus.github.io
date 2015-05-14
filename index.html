@@ -1,57 +1,32 @@
 ---
+layout: base
 ---
-
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>CoursesPlus</title>
-		
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
-
-		<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/pieincmodljnbihihjnapcmhdddhbpgi" />
-		
-		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oxygen:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic" />
-		<link rel="stylesheet" href="/css/font-awesome.min.css" />
-		<link rel="stylesheet" href="/css/bootstrap.min.css" />
-		<link rel="stylesheet" href="/css/index.css" />
-		
-		<script src="/js/jquery-1.11.2.min.js"></script>
-		<script src="/js/jquery-scrolltofixed-min.js"></script>
-		<script src="/js/bootstrap.min.js"></script>
-		<script src="/js/index.js"></script>
-	</head>
-	<body>
-		<section id="title">
-			Courses<strong>Plus</strong>
-		</section>
-		<div id="scrollStay">
-			<section id="desc">
-				Courses<strong>Plus</strong> is an extension that makes Dalton Courses <em>awesome</em>.
-			</section>
-			<section class="download">
-				<button class="btn downloadBtn"><i class="fa fa-download"></i> Get now</button>
-				<br />
-				<div class="browserInfo">
-					for <img src="img/chrome.png" class="chrome"/> Google Chrome
-				</div>
-			</section>
+{% include title.html %}
+<div id="scrollStay">
+	<section id="desc">
+		Courses<strong>Plus</strong> is an extension that makes Dalton Courses <em>awesome</em>.
+	</section>
+	<section class="download">
+		<button class="btn downloadBtn"><i class="fa fa-download"></i> Get now</button>
+		<br />
+		<div class="browserInfo">
+			for <img src="img/chrome.png" class="chrome"/> Google Chrome
 		</div>
-		{% include nav.html %}
-		<section class="feature f1">
-			<div class="feature-lead">Change the theme of Courses</div>
-			<div class="feature-desc">Either customize your own or use one of our premade themes</div>
-		</section>
-		<section class="feature f2">
-			<div class="feature-lead">Services</div>
-			<div class="feature-desc">Check the weather, check your schedule, check what's for lunch.<br/><small>Image is from <a href="http://commons.wikimedia.org/wiki/File:Appearance_of_sky_for_weather_forecast,_Dhaka,_Bangladesh.JPG">Wikimedia Commons</a>.</small></div>
-		</section>
-		<section class="feature f3">
-			<div class="feature-lead">Add a background</div>
-			<div class="feature-desc">It can be a GIF or just a normal picture</div>
-		</section>
-		<footer>
-			Courses<strong>Plus</strong> is <a href="https://github.com/CoursesPlus/CoursesPlus">open-source software</a> licensed under the MIT license.
-		</footer>
-	</body>
-</html>
+	</section>
+</div>
+{% include nav.html %}
+<section class="feature f1">
+	<div class="feature-lead">Change the theme of Courses</div>
+	<div class="feature-desc">Either customize your own or use one of our premade themes</div>
+</section>
+<section class="feature f2">
+	<div class="feature-lead">Services</div>
+	<div class="feature-desc">Check the weather, check your schedule, check what's for lunch.<br/><small>Image is from <a href="http://commons.wikimedia.org/wiki/File:Appearance_of_sky_for_weather_forecast,_Dhaka,_Bangladesh.JPG">Wikimedia Commons</a>.</small></div>
+</section>
+<section class="feature f3">
+	<div class="feature-lead">Add a background</div>
+	<div class="feature-desc">It can be a GIF or just a normal picture</div>
+</section>
+<footer>
+	Courses<strong>Plus</strong> is <a href="https://github.com/CoursesPlus/CoursesPlus">open-source software</a> licensed under the MIT license.
+</footer>
