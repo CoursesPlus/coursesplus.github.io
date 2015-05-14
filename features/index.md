@@ -6,6 +6,7 @@ showinnav: true
 ---
 
 Courses**Plus** has many features, including:
+
 * Great themes to transform the look of Courses.
 * Turn on and off every feature from the options page!
 * Keep track of assignments you've done!
@@ -16,4 +17,4 @@ Courses**Plus** has many features, including:
 * Add a background image!
 * Fixes for various bugs with Courses (daylight savings time mishandling, lightbox zoom weirdness, etc.)
 * A nicer looking login page!
-* Use emotions in the messaging system! (even if the other person doesn't have Courses8Plus!)
+* Use emotions in the messaging system! (even if the other person doesn't have Courses**Plus**!)
