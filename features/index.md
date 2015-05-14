@@ -4,7 +4,6 @@ title: Features
 description: A list of features available.
 showinnav: true
 ---
-
 Courses**Plus** has many features, including:
 
 * Great themes to transform the look of Courses.

@@ -12,6 +12,14 @@ body {
 	text-align: center;
 	padding: 10px;
 }
+#title > a {
+	color: black;
+	text-decoration: none;
+	transition: color .5s ease-in-out;
+}
+#title > a:hover {
+	color: blue;
+}
 #desc {
 	background: #ddd;
 	font-size: 18px;
