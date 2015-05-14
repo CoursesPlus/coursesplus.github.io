@@ -15,7 +15,7 @@ body {
 #title > a {
 	color: black;
 	text-decoration: none;
-	transition: color .5s ease-in-out;
+	transition: color .25s ease-in-out;
 }
 #title > a:hover {
 	color: blue;
