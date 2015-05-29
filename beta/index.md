@@ -11,7 +11,7 @@ Courses**Plus** offers a public beta. **This beta comes with no warranty. Course
 #How to install
 1. Create a Git**Hub** account at <https://github.com/join>. Choose the free account.
 2. If you are on a school computer, skip this step.  If you are on a mac, go to <http://mac.github.com> to download Git**Hub** for mac. If you are on windows, go to <http://windows.github.com> to download Git**Hub** for windows. 
-3. Go to <github.com/coursesplus/coursesplus> and click "clone in desktop".
+3. Go to <http://github.com/coursesplus/coursesplus> and click "clone in desktop".
 4. When propted, accept the dialog requesting that github.com open an external application.
 5. Sign in to your Git**Hub** account when prompted.
 6. Create a folder called "Git" in your documents folder. When prompted where to save the repository, save it to that folder
