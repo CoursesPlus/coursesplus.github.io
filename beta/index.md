@@ -34,11 +34,11 @@ This data transfer process works both ways (from stable to beta and beta to stab
 #How to update your developmental version
 1. Open GitHub desktop.
 2. In GitHub desktop, click the "Sync" button in the menubar.
-3. On the Chrome extensions page (see step 7 of "How to install" to see how to access it), click "Reload" under Courses**Plus**
+3. On the Chrome extensions page (see step 7 of "How to install" to learn how to access it), click "Reload" under Courses**Plus**
 
 #How to revert to a stable release
-1. Open the [chrome extensions page](chrome://extensions).
-2. Uncheck the box next to "Enabled" in the development version of Courses**Plus**.
+1. Open the Chrome extensions page. (see step 7 of "How to install" to learn how to access it)
+2. Un-check the box next to "Enabled" in the development version of Courses**Plus**.
 3. Check the box next to "Enable" in Courses**Plus**.
 
 Why did you leave the Courses**Plus** open beta? Click [here](https://github.com/CoursesPlus/CoursesPlus/issues/new) to leave feedback.
