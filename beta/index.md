@@ -5,4 +5,4 @@ description: Join the CoursesPlus Public Beta!
 showinnav: false
 ---
 
-More information about how to join the Courses**Plus** Public Beta is coming soon.
+Courses**Plus** offers a public beta. **This beta comes with no warranty. **Courses**Plus is not responsible for any forgotten assignments due to issues with the software.** Please report any issues to <https://github.com/CoursesPlus/CoursesPlus/issues/new>.
