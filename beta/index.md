@@ -20,7 +20,6 @@ Courses**Plus** offers a public beta. **This beta comes with no warranty. It may
 9. Click "Sync" in the right-hand corner.
 10. Go back to the Chrome extensions page and make sure "Developer mode" is checked.
 11. Open the folder that you selected in step 6. In it should be another folder called CoursesPlus. Drag that folder onto the extensions page in Chrome.
-12. If you already had CoursesPlus installed, disable the version from the Chrome Web Store.
 
 #How to transfer your data
 This data transfer process works both ways (from stable to beta and beta to stable). However, we recommend only going from stable to beta because beta releases may modify your data in a way that the stable version cannot read.
