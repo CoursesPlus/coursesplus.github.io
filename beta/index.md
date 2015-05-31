@@ -2,7 +2,7 @@
 layout: page
 title: Public Beta
 description: Join the CoursesPlus Public Beta!
-showinnav: false
+showinnav: true
 ---
 
 #Disclaimer
