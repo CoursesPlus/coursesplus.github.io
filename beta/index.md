@@ -24,6 +24,7 @@ Courses**Plus** offers a public beta. **This beta comes with no warranty. It may
 
 #How to transfer your data
 This data transfer process works both ways (from stable to beta and beta to stable). However, we recommend only going from stable to beta because beta releases may modify your data in a way that the stable version cannot read.
+
 1. Open the options page of the extension you are transferring data *from*.
 2. In the right-hand pane, select "Storage".
 3. Click the "Export data" button. A popup should appear containing lots of code. Copy the code.
