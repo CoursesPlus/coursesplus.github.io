@@ -5,6 +5,26 @@ description: A list of features changed in new versions.
 showinnav: true
 ---
 
+### v3.2.0
+\+ A menubar icon allows you to access upcoming events, services, and quick links easily
+
+\+ Click on an emotion in messaging to insert it
+
+
+\| Make service options page open on service enable
+
+\| Fix internal issues
+
+\| Fix text color mismatch on service upsell dialog
+
+\| Improve logo handling for themes with black navbars
+
+\| Fix Emotions and Send message buttons not being the same size
+
+\| Make some changes to how navbar messages are handled
+
+\| Prepare for new website design
+
 ### v3.1.0
 \+ Added themes
 
