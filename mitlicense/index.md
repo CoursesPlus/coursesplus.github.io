@@ -1,7 +1,7 @@
 ---
 layout: page
 title: License
-description: Courses plus is under an MIT License.
+description: CoursesPlus and its associated projects are under the MIT License.
 showinnav: false
 ---
 
