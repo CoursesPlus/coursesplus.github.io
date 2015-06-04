@@ -91,6 +91,11 @@ body {
 .feature-desc {
 	font-size: 24px;
 }
+.feature-lead, .feature-desc {
+	background: white;
+	padding: 5px;
+	opacity: 0.5;
+}
 
 footer {
 	background: #ddd;
