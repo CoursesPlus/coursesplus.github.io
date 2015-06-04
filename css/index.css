@@ -36,6 +36,9 @@ body {
 .moreLinks {
 	background: #ddd;
 }
+.pageHeader {
+	background: #eee;
+}
 
 .btn {
 	background: #00dddd;
