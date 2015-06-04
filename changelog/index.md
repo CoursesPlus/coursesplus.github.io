@@ -4,6 +4,7 @@ title: Changelog
 description: A list of features changed in new versions.
 showinnav: true
 ---
+If you'd like to download an old version of CoursesPlus, please see [the archive](/archive/).
 
 ### v3.2.0
 \+ A menubar icon allows you to access upcoming events, services, and quick links easily
