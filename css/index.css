@@ -116,9 +116,11 @@ footer {
 .f2 {
 	background-image: url(../img/f2.jpeg);
 	text-align: right;
+	color: black;
 }
 .f3 {
 	background-image: url(../img/f3.jpeg);
+	color: black;
 }
 
 .chrome {
