@@ -41,7 +41,7 @@ body {
 	margin-bottom: 10px;
 }
 
-.btn {
+.btn:not(.btn-default) {
 	background: #00dddd;
 	border: none;
 	border-radius: 3px;
@@ -60,10 +60,10 @@ body {
 
 	transition: color 0.25s;
 }
-.btn:hover {
+.btn:hover:not(.btn-default) {
 	color: white;
 }
-.btn:active {
+.btn:active:not(.btn-default) {
 	box-shadow: none;
 	top: 2px;
 	left: 2px;
