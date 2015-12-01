@@ -22,12 +22,12 @@ $(document).ready(function() {
 			_paq.push(['trackEvent', 'DownloadFail', 'WrongBrowser', window.navigator.userAgent]);
 			$("#notAvailable").modal();
 			return false;
-		} else if (window.navigator.platform == "MacIntel" && window.screen.width == 1366 && window.screen.height == 768) {
+		}/*I else if (window.navigator.platform == "MacIntel" && window.screen.width == 1366 && window.screen.height == 768) {
 			// student laptop?
 			_paq.push(['trackEvent', 'DownloadProg', 'SLP']);
 			$("#slpModal").modal();
 			return false;
-		} else {
+		} */else {
 			// not student laptop
 			_paq.push(['trackEvent', 'DownloadOK', 'InlineInstall']);
 			chrome.webstore.install();
